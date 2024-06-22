@@ -1,0 +1,119 @@
+*** Pre-changes	2024-06-22 18:07:57.561114525 +0100
+--- Post-changes	2024-06-22 18:08:03.687761347 +0100
+***************
+*** 2,9 ****
+  [To be spoken]
+  [Notes for Agent]
+  
+! Hello and welcome to today’s ECAT, {MI}
+! Today we’ll be looking at the Military Intelligence Branch.
+  Please stay seated and don’t speak unless asked.
+  I’d advise you to make note of this information as it’ll be important for the quiz.
+  Are there any questions before we begin?
+--- 2,8 ----
+  [To be spoken]
+  [Notes for Agent]
+  
+! Hello and welcome to today’s ECAT, {MI} - Introduction to the Military Intelligence Branch.
+  Please stay seated and don’t speak unless asked.
+  I’d advise you to make note of this information as it’ll be important for the quiz.
+  Are there any questions before we begin?
+***************
+*** 20,30 ****
+  This includes holding Basic Training {BT} ECATs for new recruits.
+  You are expected to hold 4 of any of the above per week.
+  
+! The MI branch is headed by the Director General [5iC]: NoahC500
+  MI5 is headed by its Section Chief [6iC]: GetWild, and is overseen by the Home Office.
+  MI6 is headed by the SIS Chief [6iC] and is overseen by the Foreign Office.
+  This makes up Senior Leadership. The rest of Leadership is made up of three 7iC personnel.
+! These are the Training Strategist, Personnel Director (both MI5) and the Intelligence Operative (MI6).
+  Are there any questions so far?
+  Answer any questions
+  
+--- 19,29 ----
+  This includes holding Basic Training {BT} ECATs for new recruits.
+  You are expected to hold 4 of any of the above per week.
+  
+! The MI branch is headed by the Director General [5iC]: NoahC500.
+  MI5 is headed by its Section Chief [6iC]: GetWild, and is overseen by the Home Office.
+  MI6 is headed by the SIS Chief [6iC] and is overseen by the Foreign Office.
+  This makes up Senior Leadership. The rest of Leadership is made up of three 7iC personnel.
+! These are the Training Strategist, Personnel Director (MI5) and the Intelligence Operative (MI6).
+  Are there any questions so far?
+  Answer any questions
+  
+***************
+*** 32,46 ****
+  So it’s important that you show patience when working with LRs, as well as showing decorum.
+  You should also be a kind and dedicated member of MI who is willing to do their part,
+  as a part of a wider team.
+! One of the main goals of MI5 is to keep good ’Netgain’.
+! Which, to put simply, is the number of people who have joined, minus those who have left,
+! in a given period of time (typically one week).
+  Any questions so far?
+  Answer any questions
+  
+  As an MI agent, you will also have the opportunity to guard the Royal Family, and the Cabinet Office
+  at special events, such as balls, or the State Opening of Parliament.
+- This is further detailed in ECAT {RaSP}.
+  
+  Members of the MI branch are able to promote, strike, and dismiss LRs.
+  This gives the opportunity to reward Low Ranks for their hard work.
+--- 31,43 ----
+  So it’s important that you show patience when working with LRs, as well as showing decorum.
+  You should also be a kind and dedicated member of MI who is willing to do their part,
+  as a part of a wider team.
+! One of the main goals of MI is to keep good ’Netgain’.
+! Which, to put simply, is the number of people more or less than were employed last week.
+  Any questions so far?
+  Answer any questions
+  
+  As an MI agent, you will also have the opportunity to guard the Royal Family, and the Cabinet Office
+  at special events, such as balls, or the State Opening of Parliament.
+  
+  Members of the MI branch are able to promote, strike, and dismiss LRs.
+  This gives the opportunity to reward Low Ranks for their hard work.
+***************
+*** 48,68 ****
+  After ranking up to 8iC, you may pick from MI5 or MI6.
+  
+  Next I’ll give you a short quiz on what you’ve learned.
+- Do you have any questions before it starts?
+- Answer any questions
+- 
+  You need 3/4 to pass this ECAT. If you are unsure of the correct answer, just say ’pass’.
+- Are you ready to start?
+- 
+  If there are multiple LRs present, say the following:
+  Please whisper your answers to me and don’t confer.
+  
+  Ensure not to copy the answer along with the question
+  1. Who is the current Director General?
+  NoahC500
+  2. What is Netgain?
+! Number of people who have joined the UK minus the number of people who have left
+! 3. Name one event that relies upon MI5 members to guard the Royals and members of the Cabinet.
+  Royal balls, the State Opening of Parliament, etc.
+  4. What are two actions an MI member can perform on an LR?
+  Hire, Promote, Demote, Strike, Fire
+--- 45,63 ----
+  After ranking up to 8iC, you may pick from MI5 or MI6.
+  
+  Next I’ll give you a short quiz on what you’ve learned.
+  You need 3/4 to pass this ECAT. If you are unsure of the correct answer, just say ’pass’.
+  If there are multiple LRs present, say the following:
+  Please whisper your answers to me and don’t confer.
+  
++ Do you have any questions before it starts?
++ Answer any questions
++ 
+  Ensure not to copy the answer along with the question
+  1. Who is the current Director General?
+  NoahC500
+  2. What is Netgain?
+! Number of people who have joined the UK minus the number of people who have left / Difference since last week
+! 3. Name one event that relies upon MI members to guard the Royals and members of the Cabinet.
+  Royal balls, the State Opening of Parliament, etc.
+  4. What are two actions an MI member can perform on an LR?
+  Hire, Promote, Demote, Strike, Fire
