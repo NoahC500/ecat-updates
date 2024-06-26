@@ -1,0 +1,25 @@
+*** ./Pre-changes	2024-06-26 21:58:52.744453893 +0100
+--- ./Post-changes	2024-06-26 21:59:09.440985409 +0100
+***************
+*** 29,32 ****
+--- 29,48 ----
+  Are there any questions?
+  Answer any questions
+  
++ Next I’ll give you a short quiz on what you’ve learned.
++ You need 2/3 to pass. If you are unsure of the correct answer, just say ’pass’.
++ Do you have any questions before it starts?
++ Answer any questions
++ 
++ If there are multiple LRs present:
++ Please whisper your answers to me and do not confer.
++ 
++ 1. How long do Parliaments (terms) usually last?
++ Four months
++ 2. What is the role given to the runner-up in the election?
++ Leader of the Opposition
++ 3. How many days of employment are needed in order to vote in an election?
++ 15 days
++ 
++ 
+  Congratulations, you've now completed ECAT {V} - Voting Rights & Electoral Knowledge.

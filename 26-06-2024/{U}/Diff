@@ -1,0 +1,44 @@
+*** ./Pre-changes	2024-06-26 21:58:06.184831527 +0100
+--- ./Post-changes	2024-06-26 21:58:21.001377898 +0100
+***************
+*** 22,29 ****
+  by means of recommending them to the monarch at the end of a Parliament.
+  In this system, there are 5 peerages, each with their own requirements and privileges.
+  The peerages, in order of honour and nobility (with their eligibility requirements) are as follows:
+! 1. Duke/Duchess (former 3iC+) 2. Marquess/Marchioness (former 4iC+)
+! 3. Earl/Countess (former 5iC+) 4. Viscount/Viscountess (former Cabinet Minister or SC Justice)
+  5. Baron/Baroness (UK Veteran)
+  Any questions?
+  Answer any questions
+--- 22,31 ----
+  by means of recommending them to the monarch at the end of a Parliament.
+  In this system, there are 5 peerages, each with their own requirements and privileges.
+  The peerages, in order of honour and nobility (with their eligibility requirements) are as follows:
+! 1. Duke/Duchess (former 3iC+)
+! 2. Marquess/Marchioness (former 4iC+)
+! 3. Earl/Countess (former 5iC+)
+! 4. Viscount/Viscountess (former Cabinet Minister or SC Justice)
+  5. Baron/Baroness (UK Veteran)
+  Any questions?
+  Answer any questions
+***************
+*** 32,39 ****
+  They are used to recognise UK members for their services to the Sovereign and the organisation.
+  There are 4 orders of chivalry and 1 order of merit.
+  The five orders, in order of nobility, are as follows:
+! 1. Most Noble Order of the Garter 2. Most Honourable Order of the Bath
+! 3. Royal Victorian Order 4. Most Excellent Order of the British Empire
+  5. Order of the Companions of Honour
+  
+  Knighting ceremonies are held by the Sovereign in order to give these honours.
+--- 34,43 ----
+  They are used to recognise UK members for their services to the Sovereign and the organisation.
+  There are 4 orders of chivalry and 1 order of merit.
+  The five orders, in order of nobility, are as follows:
+! 1. Most Noble Order of the Garter
+! 2. Most Honourable Order of the Bath
+! 3. Royal Victorian Order
+! 4. Most Excellent Order of the British Empire
+  5. Order of the Companions of Honour
+  
+  Knighting ceremonies are held by the Sovereign in order to give these honours.
