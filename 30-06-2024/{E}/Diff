@@ -1,0 +1,19 @@
+*** Pre-changes	2024-07-01 00:44:15.120370298 +0100
+--- Post-changes	2024-07-01 00:46:15.952438180 +0100
+***************
+*** 15,21 ****
+  Any questions so far?
+  Answer any questions
+  
+! The Cabinet Office is led by the acting Prime Minister [1iC]: Hexal and their deputy [2iC].
+  The CO is also made up of the First Secretary [3iC]: Solicitate,
+  the Cabinet Secretary [4iC]: hears6, and the Cabinet Minister [5iC]: Arlert.
+  Its main function is to manage the rest of the Government.
+--- 15,21 ----
+  Any questions so far?
+  Answer any questions
+  
+! The Cabinet Office is led by the Prime Minister [1iC]: Apped and their deputy [2iC].
+  The CO is also made up of the First Secretary [3iC]: Solicitate,
+  the Cabinet Secretary [4iC]: hears6, and the Cabinet Minister [5iC]: Arlert.
+  Its main function is to manage the rest of the Government.
