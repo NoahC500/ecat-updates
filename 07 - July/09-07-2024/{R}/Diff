@@ -1,0 +1,35 @@
+*** ./Pre-changes	2024-07-09 03:26:52.920406958 +0100
+--- ./Post-changes	2024-07-09 03:30:00.821420226 +0100
+***************
+*** 48,62 ****
+  However, you must never promise high ranks or pay, this will result in disciplinary action.
+  
+  Next I’ll give you a short quiz on what you’ve learned.
+- Do you have any questions before it starts?
+- Answer any questions
+- 
+  You need 4/6 to pass. If you are unsure of the correct answer, just say ’pass’.
+- Are you ready to start?
+  
+! If there are multiple LRs present:
+  Please whisper your answers to me and do not confer.
+  
+  1. List two requirements for a new trainee.
+  Correct badge, uniform, motto; not being on TKOS/BOS
+  2. Name one sign of a potential troll.
+--- 48,62 ----
+  However, you must never promise high ranks or pay, this will result in disciplinary action.
+  
+  Next I’ll give you a short quiz on what you’ve learned.
+  You need 4/6 to pass. If you are unsure of the correct answer, just say ’pass’.
+  
+! Say if there are multiple LRs present
+  Please whisper your answers to me and do not confer.
+  
++ Do you have any questions before it starts?
++ Answer any questions
++ 
++ 
+  1. List two requirements for a new trainee.
+  Correct badge, uniform, motto; not being on TKOS/BOS
+  2. Name one sign of a potential troll.

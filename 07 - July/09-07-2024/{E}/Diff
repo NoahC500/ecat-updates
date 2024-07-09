@@ -1,0 +1,71 @@
+*** ./Pre-changes	2024-07-09 16:57:33.514589748 +0100
+--- ./Post-changes	2024-07-09 17:12:56.713254625 +0100
+***************
+*** 16,24 ****
+  Answer any questions
+  
+  The Cabinet Office is led by the Prime Minister [1iC]: Apped and their deputy [2iC].
+! The CO is also made up of the First Secretary [3iC]: Solicitate,
+  the Cabinet Secretary [4iC]: hears6, and the Cabinet Minister [5iC]: Arlert.
+! Its main function is to manage the rest of the Government.
+  This is along with advising branch leaders and performing MP duties.
+  Any questions so far?
+  Answer any questions
+--- 16,26 ----
+  Answer any questions
+  
+  The Cabinet Office is led by the Prime Minister [1iC]: Apped and their deputy [2iC].
+! The CO is also made up of the First Secretary [3iC],
+  the Cabinet Secretary [4iC]: hears6, and the Cabinet Minister [5iC]: Arlert.
+! As well as the so-called Leader of the House of Commons [5iC]: Jush,
+! whose role is focused on liaising between the two branches and improving activity.
+! The department’s main function is to manage the rest of the Government.
+  This is along with advising branch leaders and performing MP duties.
+  Any questions so far?
+  Answer any questions
+***************
+*** 48,60 ****
+  
+  The Home Office is responsible for the management of personnel and transfer requests.
+  This is as well as overseeing the MI5 division of the MI branch.
+! As there is not currently a Home Secretary, the duties of the position
+! are fulfilled by the First Secretary: Solicitate. The Minister is: KyleGunzkofer8
+  
+  The Ministry of Defence is responsible for ensuring the safety of the UK.
+  They deal with all security threats, and control the Ban on Sight (BOS) list published onsite.
+  They work closely with MI to ensure that the employees have a safe working environment.
+! The current Defence Sec. is: Jenn,; the Minister is xCommissioned.
+  Any questions?
+  Answer any questions
+  
+--- 50,61 ----
+  
+  The Home Office is responsible for the management of personnel and transfer requests.
+  This is as well as overseeing the MI5 division of the MI branch.
+! The current Secretary is: KyleGunzkofer8.
+  
+  The Ministry of Defence is responsible for ensuring the safety of the UK.
+  They deal with all security threats, and control the Ban on Sight (BOS) list published onsite.
+  They work closely with MI to ensure that the employees have a safe working environment.
+! The current Defence Sec. is: xCommissioned, the Minister is: agumobrown.
+  Any questions?
+  Answer any questions
+  
+***************
+*** 64,71 ****
+  iC members are able to join the DCME as volunteer Culture Coordinators;
+  Culture Coordinators are responsible for hosting events in HQ.
+  8iC+ MI5 agents are ex officio Culture Coordinators.
+! To join, please reach out to the Culture Secretary, currently Jush,
+! or the Minister for Culture: Haree.
+  
+  The Department for Technology is responsible for the maintenance and improvement of
+  the organisation’s Discord server and website.
+--- 65,71 ----
+  iC members are able to join the DCME as volunteer Culture Coordinators;
+  Culture Coordinators are responsible for hosting events in HQ.
+  8iC+ MI5 agents are ex officio Culture Coordinators.
+! To join, please reach out to the Culture Secretary, currently Haree.
+  
+  The Department for Technology is responsible for the maintenance and improvement of
+  the organisation’s Discord server and website.
