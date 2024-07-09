@@ -123,3 +123,8 @@
 - Q: From: `When is a 7iC-5iC not allowed to be inside the VIP room?` to: `When may 7iC+ enter the VIP Room?`
 
 - A: From: `When FTF has less than 4 employees in it.` to: `When at least four people are FTF`
+
+## {J}
+Minor changes were made to {J}, however, I cba to note them down lol
+
+See [here](https://discord.com/channels/1001645178592968755/1001650091028906054/1245113644057100449)
