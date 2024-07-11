@@ -1,0 +1,20 @@
+*** ./Pre-changes	2024-07-11 18:01:32.641850011 +0100
+--- Post-changes	2024-07-11 18:02:58.254484230 +0100
+***************
+*** 10,16 ****
+  
+  Recruitment is essential to any agency, including the UK.
+  When recruiting, it is important to use bold lettering.
+! This is accomplished by holding shift when pressing enter on PC. There is a dropdown on mobile.
+  While recruiting at the front desk, there are three basic steps:
+  1. Ask the civilian if they would like a job, or if they need any help.
+  2. Direct them through the process of getting the appropriate badge, motto, and uniform.
+--- 10,17 ----
+  
+  Recruitment is essential to any agency, including the UK.
+  When recruiting, it is important to use bold lettering.
+! This is accomplished by holding shift when pressing enter on PC.
+! Unfortunately it is not possible on the mobile app.
+  While recruiting at the front desk, there are three basic steps:
+  1. Ask the civilian if they would like a job, or if they need any help.
+  2. Direct them through the process of getting the appropriate badge, motto, and uniform.
