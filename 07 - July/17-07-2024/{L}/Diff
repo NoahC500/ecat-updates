@@ -1,0 +1,46 @@
+*** Pre-changes	2024-07-17 22:56:09.205147194 +0100
+--- Post-changes	2024-07-17 22:56:30.468512472 +0100
+***************
+*** 34,40 ****
+  - The Deputy Speaker of the House [5iC]: EriksS.
+  - The Leader of the Opposition [5iC]: TheHarveh.
+  - The Deputy Leader of the Opposition [6iC].
+! - The Clerk of the House [7iC] (assists in bill-drafting & record-keeping): Faiqh101.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+--- 34,40 ----
+  - The Deputy Speaker of the House [5iC]: EriksS.
+  - The Leader of the Opposition [5iC]: TheHarveh.
+  - The Deputy Leader of the Opposition [6iC].
+! - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping): Faiqh101.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+***************
+*** 85,91 ****
+  
+  
+  Royal Assent is where the monarch, HM, The King Terrorization, signs the bill into law.
+- There is a 5-day period in which the King can refuse to sign, and reject the bill.
+  Royal Assent, however, is effectively a formality,
+  except in the case whereby the monarch would be affected by the bill.
+  
+--- 85,90 ----
+***************
+*** 99,105 ****
+  
+  
+  PMQs & MQs are chances for MPs to ask the PM and other ministers questions surrounding policy.
+! These are scheduled for alternating weekends.
+  MPs are welcome to join committees of their choosing.
+  This gives them the chance to closely discuss bills during the committee stage.
+  However, most bills are sent to the Whole-House Committee, due to low numbers.
+--- 98,104 ----
+  
+  
+  PMQs & MQs are chances for MPs to ask the PM and other ministers questions surrounding policy.
+! PMQs is scheduled for every Saturday sitting, and MQs for Thursday’s sitting.
+  MPs are welcome to join committees of their choosing.
+  This gives them the chance to closely discuss bills during the committee stage.
+  However, most bills are sent to the Whole-House Committee, due to low numbers.
