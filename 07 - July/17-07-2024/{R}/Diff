@@ -1,0 +1,88 @@
+*** Pre-changes	2024-07-17 15:26:15.845216369 +0100
+--- Post-changes	2024-07-17 15:28:56.052114160 +0100
+***************
+*** 15,21 ****
+  While recruiting at the front desk, there are three basic steps:
+  1. Ask the civilian if they would like a job, or if they need any help.
+  2. Direct them through the process of getting the appropriate badge, motto, and uniform.
+! The appropriate badge for Trainees is [UK] - Employee ID. The motto is [UK] MI5 Trainee.
+  3. Correct them on any mistakes, then send them to the gates for training.
+  It is also advised that you personally address potential recruits, e.g. greet them by their name.
+  It is preferred that all employees have their badge favourited,
+--- 15,21 ----
+  While recruiting at the front desk, there are three basic steps:
+  1. Ask the civilian if they would like a job, or if they need any help.
+  2. Direct them through the process of getting the appropriate badge, motto, and uniform.
+! The appropriate badge for Trainees is [UK] - Employee ID. The motto is [UK] MI Trainee.
+  3. Correct them on any mistakes, then send them to the gates for training.
+  It is also advised that you personally address potential recruits, e.g. greet them by their name.
+  It is preferred that all employees have their badge favourited,
+***************
+*** 34,41 ****
+  Ask an HR if you are unsure of a username’s appropriateness.
+  
+  You should also look out for clone accounts, as these can be used to bypass double-jobbing rules.
+! The Ban-on-Site (BOS) & Training-Kick-on-Site (TKOS) lists should be consulted before recruiting.
+! These can be found on the HabboUK»com website.
+  Are there any questions?
+  Answer any questions
+  
+--- 34,41 ----
+  Ask an HR if you are unsure of a username’s appropriateness.
+  
+  You should also look out for clone accounts, as these can be used to bypass double-jobbing rules.
+! The punishment lists should be consulted before recruiting.
+! These can be found on the HabboUK»com website, under the Learn tab.
+  Are there any questions?
+  Answer any questions
+  
+***************
+*** 49,55 ****
+  However, you must never promise high ranks or pay, this will result in disciplinary action.
+  
+  Next I’ll give you a short quiz on what you’ve learned.
+! You need 4/6 to pass. If you are unsure of the correct answer, just say ’pass’.
+  
+  Say if there are multiple LRs present
+  Please whisper your answers to me and do not confer.
+--- 49,55 ----
+  However, you must never promise high ranks or pay, this will result in disciplinary action.
+  
+  Next I’ll give you a short quiz on what you’ve learned.
+! You need 3/5 to pass. If you are unsure of the correct answer, just say ’pass’.
+  
+  Say if there are multiple LRs present
+  Please whisper your answers to me and do not confer.
+***************
+*** 59,74 ****
+  
+  
+  1. List two requirements for a new trainee.
+! Correct badge, uniform, motto; not being on TKOS/BOS
+  2. Name one sign of a potential troll.
+  Creation date < 3 days, account score < 500, offensive IGN, any other valid response
+! 3. What lettering should one use to speak to potential recruits?
+  Bold
+! 4. Show me you know how to use bold lettering
+! Mark given if candidate uses bold lettering without further aid from trainer
+! 5. List two examples of something to mention to potential recruits.
+  Roleplay, personal experience, courts system, legislature, any other valid response
+! 6. What is it called when you try to recruit from another agency illegally?
+  Poaching
+  
+  Correct their answers
+--- 59,72 ----
+  
+  
+  1. List two requirements for a new trainee.
+! Correct badge, uniform, motto; not being on TKoS/BoS
+  2. Name one sign of a potential troll.
+  Creation date < 3 days, account score < 500, offensive IGN, any other valid response
+! 3. On PC, what lettering should one use to speak to potential recruits?
+  Bold
+! 4. List two examples of something to mention to potential recruits.
+  Roleplay, personal experience, courts system, legislature, any other valid response
+! 5. What is it called when you try to recruit from another agency illegally?
+  Poaching
+  
+  Correct their answers
