@@ -1,0 +1,177 @@
+*** Pre-changes	2024-08-05 01:44:50.624552072 +0100
+--- Post-changes	2024-08-05 01:47:39.007471534 +0100
+***************
+*** 3,11 ****
+  [Notes for Agent]
+  
+  
+! Welcome to ECAT {L} - Introduction to the Legislature
+  Today we’ll be looking at the Legislative Branch of the UK.
+! Please stay seated and don’t speak unless asked.
+  I’d advise you to make note of this information as it’ll be important for the quiz.
+  Are there any questions before we begin?
+  Answer any questions
+--- 3,12 ----
+  [Notes for Agent]
+  
+  
+! Welcome to ECAT {L} - Introduction to the Legislature.
+  Today we’ll be looking at the Legislative Branch of the UK.
+! Please refrain from going AFK, stay seated, and don’t speak unless asked.
+! If you need to ask a question, please wave by typing ’o/’.
+  I’d advise you to make note of this information as it’ll be important for the quiz.
+  Are there any questions before we begin?
+  Answer any questions
+***************
+*** 30,40 ****
+  
+  
+  Leadership consists of:
+! - The Speaker of the House (SotH) [4iC]: Thurgood.
+! - The Deputy Speaker of the House [5iC]: EriksS.
+  - The Leader of the Opposition [5iC]: TheHarveh.
+  - The Deputy Leader of the Opposition [6iC]: ThreeTwoSix.
+- - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping): Faiqh101.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+--- 31,41 ----
+  
+  
+  Leadership consists of:
+! - The Speaker of the House (SotH) [4iC]: EriksS.
+! - The Deputy Speaker of the House [5iC].
+! - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping).
+  - The Leader of the Opposition [5iC]: TheHarveh.
+  - The Deputy Leader of the Opposition [6iC]: ThreeTwoSix.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+***************
+*** 50,56 ****
+  - The Lord Speaker [4iC] (presides over the House): .Martin.
+  - The Deputy Lord Speaker [5iC]: Josephj827.
+  - The Clerk of the House of Lords [6iC]: supaman981.
+- - Lord Shadow Secretaries and Ministers [7iC].
+  
+  
+  The rest of the House of Lords consists of:
+--- 51,56 ----
+***************
+*** 68,85 ****
+  
+  
+  Next, how a bill becomes law.
+  First a bill is drafted by either a Lord, or an MP.
+  After it is submitted, it is announced by the Speaker during its ’First Reading’.
+  Next, during its ’Second Reading’, the general principles of the bill are debated and discussed.
+  After, it goes to the ’Committee stage’, where the bill is closely inspected,
+  and debated line-by-line, and amendments are voted on.
+  After the committee stage, there is the report stage, where the bill goes back to the House,
+  and it can vote on any further amendments to the bill.
+! During the ’Third Reading’, the House will debate the contents of the bill,
+! and no amendments can be made.
+  After the third reading, if the bill was started in the Lords, it will proceed to the Commons,
+  to undergo the same process.
+! If the bill passes the Commons’ third reading, it continues to ’Royal Assent’.
+  Any questions?
+  Answer any questions
+  
+--- 68,89 ----
+  
+  
+  Next, how a bill becomes law.
++ The legislative process is divvied up into a series of phases.
++ The ’Reading’ phases are all followed by a vote as to whether the bill should continue progressing.
++ If a bill fails the same reading twice, it is dropped, and relegated to the ’Legislative Graveyard’.
+  First a bill is drafted by either a Lord, or an MP.
+  After it is submitted, it is announced by the Speaker during its ’First Reading’.
+  Next, during its ’Second Reading’, the general principles of the bill are debated and discussed.
+  After, it goes to the ’Committee stage’, where the bill is closely inspected,
+  and debated line-by-line, and amendments are voted on.
++ Bills can stay in committee for a maximum of 3 days.
+  After the committee stage, there is the report stage, where the bill goes back to the House,
+  and it can vote on any further amendments to the bill.
+! During this stage, members may motion to table the amendment.
+! If the motion succeeds, the bill will be relegated to the ’Legislative Graveyard’.
+  After the third reading, if the bill was started in the Lords, it will proceed to the Commons,
+  to undergo the same process.
+! If in the Commons, it goes to a final vote where it will either pass to Royal Assent or be dropped.
+  Any questions?
+  Answer any questions
+  
+***************
+*** 87,100 ****
+  Royal Assent is where the monarch, HM, The King Terrorization, signs the bill into law.
+  Royal Assent, however, is effectively a formality,
+  except in the case whereby the monarch would be affected by the bill.
+  
+  
+! Common activities for MPs include:
+! - Prime Minister’s Questions (PMQs)
+! - Ministerial Questions (MQs)
+! - Debates
+! - Committee Meetings
+! - Putting forward motions during a House session for debates or votes
+  
+  
+  PMQs & MQs are chances for MPs to ask the PM and other ministers questions surrounding policy.
+--- 91,105 ----
+  Royal Assent is where the monarch, HM, The King Terrorization, signs the bill into law.
+  Royal Assent, however, is effectively a formality,
+  except in the case whereby the monarch would be affected by the bill.
++ If the monarch refuses to sign, the bill is sent back to the Committee Stage.
+  
+  
+! During House Sessions, MPs can:
+! - Participate in Prime Minister’s Questions (PMQs)
+! - Participate in Ministerial Questions (MQs)
+! - Debate bills and general topics
+! - Put forward motions to vote or consider a topic
+! They can also attend committee meetings
+  
+  
+  PMQs & MQs are chances for MPs to ask the PM and other ministers questions surrounding policy.
+***************
+*** 104,115 ****
+  However, most bills are sent to the Whole-House Committee, due to low numbers.
+  
+  
+! I'm going to give you a quiz to see what you've learned from this session.
+! You need 3/4 to pass. If you are unsure of the answer, say "pass”.
+  
+  
+! Say the following line only if multiple LRs are in attendance.
+! Please whisper your answers to me and don't confer.
+  
+  
+  Do you have any questions before we start?
+--- 109,120 ----
+  However, most bills are sent to the Whole-House Committee, due to low numbers.
+  
+  
+! Next, I’ll give you a short quiz to assess what you’ve learnt.
+! You need 3/4 to pass. If you are unsure of the correct answer, say ’pass’.
+  
+  
+! If there are multiple LRs present:
+! Please whisper your answers to me and do not confer.
+  
+  
+  Do you have any questions before we start?
+***************
+*** 127,132 ****
+  
+  
+  Correct their answers
+! Please consider joining the HoC if you think it’s the branch for you!
+! Before we finish up, do you have any final questions?
+! Answer their questions
+--- 132,138 ----
+  
+  
+  Correct their answers
+! Please consider joining the Commons if you think it is the branch for you!
+! Please let me or a member of MI if you wish to take any more ECATs.
+! Are there any questions before we finish up?
+! Answer any questions
