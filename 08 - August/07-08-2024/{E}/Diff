@@ -1,0 +1,19 @@
+*** Pre-changes	2024-08-07 18:36:51.047760098 +0100
+--- Post-changes	2024-08-07 18:37:10.944367017 +0100
+***************
+*** 17,23 ****
+  
+  The Cabinet Office is led by the Prime Minister [1iC]: Apped and their deputy [2iC]: Jush.
+  The CO is also made up of the First Secretary [3iC]: Fiona_,
+! the Cabinet Secretary [4iC]: hears6, and the Cabinet Minister [5iC]: Arlert.
+  As well as the so-called Leader of the House of Commons [5iC]: EpicMorilecime,
+  whose role is focused on liaising between the two branches and improving activity.
+  The department’s main function is to manage the rest of the Government.
+--- 17,23 ----
+  
+  The Cabinet Office is led by the Prime Minister [1iC]: Apped and their deputy [2iC]: Jush.
+  The CO is also made up of the First Secretary [3iC]: Fiona_,
+! the Cabinet Secretary [4iC]: hears6, and the Cabinet Minister [5iC].
+  As well as the so-called Leader of the House of Commons [5iC]: EpicMorilecime,
+  whose role is focused on liaising between the two branches and improving activity.
+  The department’s main function is to manage the rest of the Government.
