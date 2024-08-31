@@ -1,0 +1,21 @@
+*** Pre-changes	2024-08-31 14:17:07.905620981 +0100
+--- Post-changes	2024-08-31 14:16:53.602397966 +0100
+***************
+*** 34,41 ****
+  - The Speaker of the House (SotH) [4iC]: EriksS.
+  - The Deputy Speaker of the House [5iC].
+  - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping).
+! - The Leader of the Opposition [5iC]: TheHarveh.
+! - The Deputy Leader of the Opposition [6iC]: ThreeTwoSix.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+--- 34,41 ----
+  - The Speaker of the House (SotH) [4iC]: EriksS.
+  - The Deputy Speaker of the House [5iC].
+  - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping).
+! - The Leader of the Opposition [5iC].
+! - The Deputy Leader of the Opposition [6iC].
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
