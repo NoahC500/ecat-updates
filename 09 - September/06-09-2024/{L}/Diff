@@ -1,0 +1,31 @@
+*** Pre-changes	2024-09-06 17:23:12.839614262 +0100
+--- Post-changes	2024-09-06 17:23:41.073206401 +0100
+***************
+*** 30,41 ****
+  Answer any questions
+  
+  
+! Leadership consists of:
+  - The Speaker of the House (SotH) [4iC]: EriksS.
+  - The Deputy Speaker of the House [5iC].
+  - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping).
+! - The Leader of the Opposition [5iC].
+! - The Deputy Leader of the Opposition [6iC].
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+--- 30,43 ----
+  Answer any questions
+  
+  
+! Leadership consists of the Commons Administration and the Opposition.
+! The Commons Administration is as follows:
+  - The Speaker of the House (SotH) [4iC]: EriksS.
+  - The Deputy Speaker of the House [5iC].
+  - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping).
+! The Official Opposition is as follows:
+! - The Leader of the Opposition [5iC]: -Joey-:.
+! - The Deputy Leader of the Opposition [6iC]: zanetheraptor.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
