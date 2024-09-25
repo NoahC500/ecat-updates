@@ -1,0 +1,52 @@
+*** Pre-changes	2024-09-25 23:13:44.422007738 +0100
+--- Post-changes	2024-09-25 23:22:58.890848244 +0100
+***************
+*** 34,44 ****
+  - Military Intelligence (MI): Foreign & Engagement work, and training materials creation.
+  All four of the branches are explained in their own ECATs.
+  
+! The lowest ranked iC level is nine, and the highest is one.
+  This forms a chain of command.
+  
+  The Prime Minister [1iC] is the head of the UK Government,
+! and is directly elected by iC employees every four months.The current Prime Minister (PM) is Apped, the Deputy PM [2iC] is Jush.
+  
+  Any questions so far?
+  Answer any questions
+--- 34,45 ----
+  - Military Intelligence (MI): Foreign & Engagement work, and training materials creation.
+  All four of the branches are explained in their own ECATs.
+  
+! The lowest iC rank is nine, and the highest is one.
+  This forms a chain of command.
+  
+  The Prime Minister [1iC] is the head of the UK Government,
+! and is directly elected by iC employees every four months.
+! The current Prime Minister (PM) is Apped, the Deputy PM [2iC] is Jush.
+  
+  Any questions so far?
+  Answer any questions
+***************
+*** 64,73 ****
+  CTH - Clear the Halls (Sit in a room or FTF/FTS)
+  
+  When called to attention, one must:
+! 	1. Stand and face the person calling attention.
+! 	2. Wave
+! 	3. Say ’Yes Sir’ or ’Yes Ma’am’, or otherwise appropriately address them by their rank.
+  4. When told to AE, return to your original position.
+  Next, I’ll give you a short quiz to assess what you’ve learnt.
+  You need 5/7 to pass. If you are unsure of the correct answer, just say ’pass’.
+  
+--- 65,75 ----
+  CTH - Clear the Halls (Sit in a room or FTF/FTS)
+  
+  When called to attention, one must:
+! 1. Stand and face the person calling attention.
+! 2. Wave using ‘o/’.
+! 3. Say ’Yes Sir’ or ’Yes Ma’am’, or otherwise appropriately address them by their rank.
+  4. When told to AE, return to your original position.
++ 
+  Next, I’ll give you a short quiz to assess what you’ve learnt.
+  You need 5/7 to pass. If you are unsure of the correct answer, just say ’pass’.
+  
