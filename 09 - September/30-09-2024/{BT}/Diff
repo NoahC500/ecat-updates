@@ -1,0 +1,73 @@
+*** Pre-changes	2024-10-09 23:06:16.972751808 +0100
+--- Post-changes	2024-10-09 23:05:17.073143570 +0100
+***************
+*** 69,74 ****
+--- 79,97 ----
+  2. Wave using ‘o/’.
+  3. Say ’Yes Sir’ or ’Yes Ma’am’, or otherwise appropriately address them by their rank.
+  4. When told to AE, return to your original position.
++ Any questions?
++ Answer any questions
++ 
++ When filling the front, if you see a potential recruit, greet them.
++ Address them by their name and ask if they’d like a job.
++ If they would, inform them that they should change their motto to: [UK] MI Trainee,
++ as well as wearing one of the uniforms on the mannequins.
++ The uniform will be automatically equipped when being sent to the training rooms.
++ However, this is a temporary change;
++ when they next change their appearance the uniform will be taken off.
++ This is why it is recommended they wear the uniform from the mannequin.
++ All employees should also be encouraged to join the Employee ID badge found on the group pennant.
++ However, if you suspect someone of trolling, you may decline to hire them.
+  
+  Next, I’ll give you a short quiz to assess what you’ve learnt.
+  You need 5/7 to pass. If you are unsure of the correct answer, just say ’pass’.
+***************
+*** 100,123 ****
+  Move over to the Group Pennant furni
+  Please request the badge [UK] - MI Access ID from the Group Pennant or my profile.
+  Let me know when you’ve requested it.
+! Wait for the trainees to request the badge & ping MI Leadership in #department-requests or DM a badge admin on Habbo
+  Do not wait on it being accepted to proceed
+  Please change your motto to: [UK] MI Constable [<PROMO>]
+  Wear a non-HC dark-red beret & wait for the trainee to change their motto
+  Now wear a non-HC dark-red beret, it’s the hat I’m wearing.
+ 
+  If the trainee’s badge has not yet been accepted, say the following:
+  Until your badge is accepted, please add [AB] to the end of your motto.
+ 
+  If the badge has been accepted, say the following:
+  If you are able to, please favourite the [UK] - MI Access ID badge.
+  Do note that this is only possible when using the classic (Flash) client.
+  
+- Before you are allowed to start filling the front, you must complete ECAT {R}.
+- This is to ensure all staff know the proper procedure for recruiting.
+- If you would like to take it now, then let me know,
+- otherwise, you may take it next time you are online, by getting in touch with a member of MI.
+  All ECAT requirements can be found at HabboUK»com -> ’Learn’ -> ’ECAT Requirements’.
+  
+  Are there any questions before we finish up?
+  Answer any questions
+--- 122,143 ----
+  Move over to the Group Pennant furni
+  Please request the badge [UK] - MI Access ID from the Group Pennant or my profile.
+  Let me know when you’ve requested it.
+! Wait for the trainees to request the badge & ping MI Leadership in #department-requests or DM a badge admin on Habbo to accept
+  Do not wait on it being accepted to proceed
+  Please change your motto to: [UK] MI Constable [<PROMO>]
+  Wear a non-HC dark-red beret & wait for the trainee to change their motto
+  Now wear a non-HC dark-red beret, it’s the hat I’m wearing.
+  If the trainee’s badge has not yet been accepted, say the following:
+  Until your badge is accepted, please add [AB] to the end of your motto.
+  If the badge has been accepted, say the following:
+  If you are able to, please favourite the [UK] - MI Access ID badge.
+  Do note that this is only possible when using the classic (Flash) client.
+  
+  All ECAT requirements can be found at HabboUK»com -> ’Learn’ -> ’ECAT Requirements’.
++ This will show what ECATs you need to get promoted.
++ The next ECAT on the agenda would be {HT} - HQ Tour, would you like to take it now?
++ If the trainee wishes to take the tour, escort them to HQ
+  
++ Otherwise:
+  Are there any questions before we finish up?
+  Answer any questions
