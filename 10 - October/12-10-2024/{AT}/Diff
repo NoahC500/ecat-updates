@@ -1,0 +1,19 @@
+*** ./Pre-changes	2024-10-12 22:03:17.411309507 +0100
+--- Post-changes	2024-10-12 22:03:59.850963639 +0100
+***************
+*** 42,48 ****
+  at the bottom of the page is a link to the transfer form.
+  
+  Upon a transfer form being filled out, the HO should be made aware.
+! This is typically done on the Discord server in #department-requests.
+  Any questions?
+  Answer any questions
+  
+--- 42,48 ----
+  at the bottom of the page is a link to the transfer form.
+  
+  Upon a transfer form being filled out, the HO should be made aware.
+! This is typically done on the Discord server in #create-a-request.
+  Any questions?
+  Answer any questions
+  
