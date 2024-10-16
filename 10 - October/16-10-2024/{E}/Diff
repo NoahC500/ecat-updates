@@ -1,0 +1,19 @@
+*** ./Pre-changes	Wed Oct 16 23:33:51 2024
+--- ./Post-changes	Wed Oct 16 23:34:50 2024
+***************
+*** 29,35 ****
+  Any questions so far?
+  Answer any questions
+  
+! His Majesty’s Treasury (HMT) is run by the Chancellor of the Exchequer [5iC]: Redgi;
+  as well as their deputy (the Exchequer Secretary [6iC]): Amica.
+  Its purpose is managing UK finances and paid perks, as well as regulating the VIP badge.
+  
+--- 29,35 ----
+  Any questions so far?
+  Answer any questions
+  
+! His Majesty’s Treasury (HMT) is run by the Chancellor of the Exchequer [5iC];
+  as well as their deputy (the Exchequer Secretary [6iC]): Amica.
+  Its purpose is managing UK finances and paid perks, as well as regulating the VIP badge.
+  
