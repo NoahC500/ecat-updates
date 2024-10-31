@@ -1,0 +1,22 @@
+*** Pre-changes	Mon Oct 21 22:12:40 2024
+--- Post-changes	Mon Oct 21 22:14:30 2024
+***************
+*** 8,16 ****
+  If taken straight after {BT}, skip intro
+  Welcome to ECAT {HT} - Headquarters Tour.
+  Today we'll show you around HQ and teach about its different stations.
+! Please refrain from going AFK, stay seated, and don’t speak unless asked.
+  If you need to ask a question, please wave by typing ’o/’.
+- I’d advise you to make note of this information as it’ll be important for the quiz.
+  Are there any questions before we begin?
+  Answer any questions
+  
+--- 8,15 ----
+  If taken straight after {BT}, skip intro
+  Welcome to ECAT {HT} - Headquarters Tour.
+  Today we'll show you around HQ and teach about its different stations.
+! Please refrain from going AFK and don’t speak unless asked.
+  If you need to ask a question, please wave by typing ’o/’.
+  Are there any questions before we begin?
+  Answer any questions
+  
