@@ -1,0 +1,79 @@
+*** Pre-changes	2024-10-31 23:48:34.119189315 +0000
+--- Post-changes	2024-10-31 23:48:12.025940546 +0000
+***************
+*** 31,43 ****
+  
+  
+  Leadership consists of the Commons Administration and the Opposition.
+  The Commons Administration is as follows:
+  - The Speaker of the House (SotH) [4iC]: EriksS.
+  - The Deputy Speaker of the House [5iC].
+! - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping): Josephj827.
+  The Official Opposition is as follows:
+! - The Leader of the Opposition [5iC]: -Joey-:.
+! - The Deputy Leader of the Opposition [6iC]: zanetheraptor.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+--- 31,44 ----
+  
+  
+  Leadership consists of the Commons Administration and the Opposition.
++ The Administration takes an impartial role and doesn’t vote on motions.
+  The Commons Administration is as follows:
+  - The Speaker of the House (SotH) [4iC]: EriksS.
+  - The Deputy Speaker of the House [5iC].
+! - The Clerk of the House [6iC] (assists in bill-drafting & record-keeping).
+  The Official Opposition is as follows:
+! - The Leader of the Opposition [5iC]: zanetheraptor.
+! - The Deputy Leader of the Opposition [6iC]: -Joey-:.
+  - Opposition MP Shadow Secretaries and Ministers [7iC].
+  
+  
+***************
+*** 50,57 ****
+  Next, the structure of the upper-house, The House of Lords.
+  The Lords is made up of its leadership, Lords Temporal, and Lords Spiritual.
+  Its leadership consists of:
+! - The Lord Speaker [4iC] (presides over the House): DanishMonarch.
+! - The Deputy Lord Speaker [5iC].
+  - The Clerk of the House of Lords [6iC]: supaman981.
+  
+  
+--- 51,58 ----
+  Next, the structure of the upper-house, The House of Lords.
+  The Lords is made up of its leadership, Lords Temporal, and Lords Spiritual.
+  Its leadership consists of:
+! - The Lord Speaker [4iC] (presides over the House).
+! - The Deputy Lord Speaker [5iC]: Habtaz.
+  - The Clerk of the House of Lords [6iC]: supaman981.
+  
+  
+***************
+*** 65,70 ****
+--- 66,72 ----
+  but all lords are otherwise given the same powers.
+  People can become lords by either being appointed after their tenure as an employee,
+  or by purchasing a peerage from HM Treasury for 150c.
++ Due to this, the Commons has primacy over the Lords, in that the Commons has more power.
+  Any questions?
+  Answer any questions
+  
+***************
+*** 105,111 ****
+  
+  
+  PMQs & MQs are chances for MPs to ask the PM and other ministers questions surrounding policy.
+! PMQs is scheduled for every Saturday sitting, and MQs for Thursday’s sitting.
+  MPs are welcome to join committees of their choosing.
+  This gives them the chance to closely discuss bills during the committee stage.
+  However, most bills are sent to the Whole-House Committee, due to low numbers.
+--- 107,114 ----
+  
+  
+  PMQs & MQs are chances for MPs to ask the PM and other ministers questions surrounding policy.
+! Sunday’s sitting’s main business alternates between PMQs and MQs every week.
+! The two main Commons sittings are Thursdays at 20:00 UTC and Sunday at 20:00 UTC.
+  MPs are welcome to join committees of their choosing.
+  This gives them the chance to closely discuss bills during the committee stage.
+  However, most bills are sent to the Whole-House Committee, due to low numbers.
