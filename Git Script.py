@@ -11,7 +11,7 @@ def submit(msgIn):
     root.destroy()
 
 root = Tk()
-root.title("DQ Commit")
+root.title("ECAT Updates Git Commit")
 frame = Frame(root)
 frame.grid()
 root.resizable(width=False, height=False)
