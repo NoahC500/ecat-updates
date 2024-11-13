@@ -1,0 +1,36 @@
+*** Pre-changes	Wed Nov 13 01:34:18 2024
+--- Post-changes	Wed Nov 13 01:34:52 2024
+***************
+*** 40,46 ****
+  
+  The Prime Minister [1iC] is the head of the UK Government,
+  and is directly elected by iC employees every four months.
+! The current Prime Minister (PM) is Seas., the Deputy PM [2iC] is xCommissioned.
+  Any questions so far?
+  Answer any questions
+  
+--- 40,46 ----
+  
+  The Prime Minister [1iC] is the head of the UK Government,
+  and is directly elected by iC employees every four months.
+! The current Prime Minister (PM) is xCommissioned, the Deputy PM [2iC] is Fiona_.
+  Any questions so far?
+  Answer any questions
+  
+***************
+*** 94,100 ****
+  
+  
+  1. Who is the current Prime Minister?
+! Seas.
+  2. Who is the current King?
+  Terrorization
+  3. Name two commands and what they mean.
+--- 94,100 ----
+  
+  
+  1. Who is the current Prime Minister?
+! xCommissioned
+  2. Who is the current King?
+  Terrorization
+  3. Name two commands and what they mean.
