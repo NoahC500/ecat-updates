@@ -1,0 +1,19 @@
+*** ./Pre-changes	2024-11-23 22:49:48.737272045 +0000
+--- ./Post-changes	2024-11-23 22:50:11.903757529 +0000
+***************
+*** 21,27 ****
+  When operating the sentry, you will deal with the following people:
+  
+  1. New Employees
+! Employees being inducted must have their motto as [UK] MI5 Trainee.
+  They must be in uniform and not be wearing any inappropriate accessories.
+  When ready, you must send them to the Tech Room and open the door for the trainer.
+  
+--- 21,27 ----
+  When operating the sentry, you will deal with the following people:
+  
+  1. New Employees
+! Employees being inducted must have their motto as [UK] MI Trainee.
+  They must be in uniform and not be wearing any inappropriate accessories.
+  When ready, you must send them to the Tech Room and open the door for the trainer.
+  
